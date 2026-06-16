@@ -18,7 +18,7 @@
 ### **Setup**
 ```bash
 # Clone the repository
-git clone https://github.com/amanu242006/Options-Dash.git
+git clone https://github.com/pallavj2006/Options-Dash.git
 cd Options-Dash
 
 # Install dependencies
